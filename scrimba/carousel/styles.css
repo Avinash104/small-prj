@@ -5,6 +5,8 @@
     position: relative;
 }
 
+/* just checking */
+
 .carousel .carousel-item,
 .carousel .carousel-item-hidden {
     display: none;
@@ -74,9 +76,3 @@
     text-shadow: 5px;
     box-shadow: 2rem;
 }
-
-@keyframes bounce {
-    0%   { transform: translateY(0); }
-    50%  { transform: translateY(-100px); }
-    100% { transform: translateY(0); }
-  }
